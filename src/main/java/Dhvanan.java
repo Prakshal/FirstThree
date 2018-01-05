@@ -1,5 +1,7 @@
 public class Dhvanan {
- void print(){
-     System.out.println("Helllo Dhvanan");
- }
+    public static void main(String args[]){
+
+        System.out.println("HI... Yash has Updated This Code....");
+    }
+
 }
